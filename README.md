@@ -1,0 +1,4 @@
+rosalind
+========
+
+solutions for rosalind
